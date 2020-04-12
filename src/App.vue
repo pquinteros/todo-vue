@@ -13,9 +13,9 @@ export default {
   data:function() {
 return {
     items: [
-      { id:1, text: 'Leche' },
-      { id:2, text: 'Carne' },
-      { id:3, text: 'Huevos' }
+      // { text: 'Leche' },
+      // { text: 'Carne' },
+      // { text: 'Huevos' }
     ]
   };
 },
