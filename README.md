@@ -1,24 +1,16 @@
-# todo
+## Todo App
 
-## Project setup
-```
-npm install
-```
+Simple Todo App with **Vue**. https://todo.pquinteros.now.sh/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<br>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<p align="center">
+  <img src=".static-readme/todo.png" width="97%" title="Learn App">
+</p>
 
-### Lints and fixes files
-```
-npm run lint
-```
+### `npm serve`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Runs the app in the development mode.<br />
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+
+
