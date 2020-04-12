@@ -5,7 +5,7 @@ Simple Todo App with **Vue**. https://todo.pquinteros.now.sh/
 <br>
 
 <p align="center">
-  <img src="./static-readme/todo.png" width="97%" title="Learn App">
+  <img src="./static-readme/todo-image.png" width="97%" title="Learn App">
 </p>
 
 ### `npm serve`
