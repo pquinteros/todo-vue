@@ -1,8 +1,6 @@
 <template>
   <div id="app">
     <Todo :items=items />
-    commit 1
-    commit 2
   </div>
 </template>
 
